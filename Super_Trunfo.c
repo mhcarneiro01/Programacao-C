@@ -76,7 +76,7 @@ int main() {
 
     // Calculo SuperPoder
     
-    
+    super
     
     
     // Impressão dos dados da Carta 1
